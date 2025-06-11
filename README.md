@@ -18,7 +18,7 @@ I'm actively seeking opportunities to collaborate on **outsourced or freelance d
 
 ## 📂 Portfolio Links
 - 📊 **Projects**: [View My Data Projects](https://your-portfolio-link.com)
-- 📄 **Resume**: [Download Resume](https://your-resume-link.com)
+- 📄 **Resume**: [Download Resume](https://github.com/llastique91/llastique91/raw/main/README.md)
 
 
 ## 🌎 Location
